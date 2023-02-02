@@ -3,31 +3,19 @@
 </p>
 
 <h1>VPN Setup and Usage</h1>
-This walkthrough demonstrates how to setup a virtual private network in an azure virtual machine and the exercises that you can do to gain a better understandung of how vpns work.<br />
+This walktrhough demonstrates how to setup a virtual private network in an azure virtual machine and the exercises that you can do to gain a better understanding of how vpns work.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
-<h2>Operating Systems Used</h2>
+<h3> Operating systems used</h2>
 
-- Windows 10 (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
-
+- macOS (12.1)
 <h2>Installation Steps</h2>
 
 <p>
