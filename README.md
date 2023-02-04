@@ -45,9 +45,33 @@ Next step is to create a virtual machine in azure and connect to it via remote d
 <br />
 
 <p>
-Next step is to create a virtual machine in azure and connect to it via remote desktop <br/>
+Give the vm a name and make sure to place the virtual machine in a region that is not where you are physically located at. The vm will be running windows 10. <br/>
 <p>
-<img src="https://i.imgur.com/8DGdoT9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oCgBUNq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+<p>
+The size will be the standard running 2 virtual cpus. Create a username and password. After that check the confirmation box and click on review and create. <br/>
+<p>
+<img src="https://i.imgur.com/pX9wy4L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+<p>
+After it is done validating click create. <br/>
+<p>
+<img src="https://i.imgur.com/bhMXL2j.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+<p>
+Once the delployment is completed click go to resource. <br/>
+<p>
+<img src="https://i.imgur.com/tg9ww6d.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
