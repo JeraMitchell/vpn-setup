@@ -138,3 +138,27 @@ Open the proton vpn app and log in with your creditials.  <br/>
 <p>
 </p>
 <br />
+
+<p>
+Connect to the Japan server. What this will do is create a tunnel from your VM to a Japanese vpn server, allowing us to browse through the the vpn in Japan.  <br/>
+<p>
+<img src="https://i.imgur.com/Da7gkpl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+<p>
+Once you are connected go back to the whatismyipaddress website and observe how to IP address and location is different.  <br/>
+<p>
+<img src="https://i.imgur.com/MAWJMVt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+<p>
+Since you are connected to a server in japan, everything should be in Japanese when browing the web.  <br/>
+<p>
+<img src="https://i.imgur.com/90VCmF1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
