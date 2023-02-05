@@ -39,7 +39,7 @@ This walkthrough demonstrates how to setup a virtual private network in an azure
 <p>
 Next step is to create a virtual machine in azure and connect to it via remote desktop <br/>
 <p>
-<img src="https://i.imgur.com/8DGdoT9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TMG1zLn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
@@ -47,7 +47,7 @@ Next step is to create a virtual machine in azure and connect to it via remote d
 <p>
 Give the VM a name and make sure to place the virtual machine in a region that is not where you are physically located at. The VM will be running windows 10. <br/>
 <p>
-<img src="https://i.imgur.com/oCgBUNq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ywQJ1aM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
@@ -55,7 +55,7 @@ Give the VM a name and make sure to place the virtual machine in a region that i
 <p>
 The size will be the standard running 2 virtual cpus. Create a username and password. After that check the confirmation box and click on review and create. <br/>
 <p>
-<img src="https://i.imgur.com/pX9wy4L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h5XMqBt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
@@ -63,7 +63,7 @@ The size will be the standard running 2 virtual cpus. Create a username and pass
 <p>
 After it is done validating click create. <br/>
 <p>
-<img src="https://i.imgur.com/bhMXL2j.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xYrBB0t.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
